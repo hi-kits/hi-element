@@ -1,0 +1,39 @@
+<svg viewBox="0 0 98 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <defs>
+        <linearGradient x1="0%" y1="45.6998651%" x2="100%" y2="54.3001349%" id="linearGradient-1">
+            <stop stop-color="#FFDE08" offset="0%"></stop>
+            <stop stop-color="#F8A304" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="45.1848901%" x2="100%" y2="54.8151099%" id="linearGradient-2">
+            <stop stop-color="#FF681A" offset="0%"></stop>
+            <stop stop-color="#FB2634" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="38.3150004%" x2="100%" y2="61.6849996%" id="linearGradient-3">
+            <stop stop-color="#F24C9B" offset="0%"></stop>
+            <stop stop-color="#E02562" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.72427831%" y1="49.7921264%" x2="81.3943878%" y2="49.2978785%" id="linearGradient-4">
+            <stop stop-color="#D35F07" stop-opacity="0.606662137" offset="0%"></stop>
+            <stop stop-color="#A83103" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="14.3608342%" y1="50.4806313%" x2="84.0937551%" y2="48.4537682%" id="linearGradient-5">
+            <stop stop-color="#9D4300" stop-opacity="0.682903156" offset="0%"></stop>
+            <stop stop-color="#892702" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.90784839%" y1="37.5045887%" x2="100%" y2="37.5045887%" id="linearGradient-6">
+            <stop stop-color="#1D75C8" offset="0%"></stop>
+            <stop stop-color="#E70EB9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="矩形" fill="url(#linearGradient-1)" points="0.342126818 0 81 0 89 26 33 26"></polygon>
+        <polygon id="矩形" fill="url(#linearGradient-2)" points="42.4413088 26 89.0769231 26 94 42 62.5384615 42"></polygon>
+        <polygon id="矩形" fill="url(#linearGradient-3)" points="71.1085634 42 94 42 98 55 87.4375 55"></polygon>
+        <polygon id="三角形" fill="url(#linearGradient-4)" points="89 26 49.3635825 31.5172403 42.4413088 26"></polygon>
+        <polygon id="三角形" fill="url(#linearGradient-5)" points="94 42 76.1500516 46.0255511 71.1085634 42"></polygon>
+        <text id="Element" fill="url(#linearGradient-6)" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500">
+            <tspan x="2" y="75">Element</tspan>
+        </text>
+    </g>
+</svg>
