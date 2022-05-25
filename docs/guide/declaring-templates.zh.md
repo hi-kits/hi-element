@@ -38,7 +38,6 @@ export class NameTag extends HIElement {
 
 最后，我们使用一种新形式的`@customElement`装饰器将模板与自定义元素关联起来，它允许我们传递更多选项。在这个配置中，我们传递一个options对象，指定`name`和`template`。
 
-With this in place, we now have a `name-tag` element that will render its template into the Shadow DOM and automatically update the `h3` content whenever the name tag's `greeting` attribute changes. Give it a try!
 有了这个元素，我们现在有了一个`name-tag`元素，它将把它的模板呈现到Shadow DOM中，并在name tag的`greeting`属性发生变化时自动更新`h3`内容。试试看！
 ### 类型化模板
 
